@@ -1,7 +1,7 @@
 def is_anagram(first_string, second_string):
     if (
         not first_string or not second_string
-        or length(first_string) != length(second_string)
+        or len(first_string) != len(second_string)
     ):
         return False
 
