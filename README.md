@@ -1,21 +1,21 @@
 # Boas-vindas ao repositório do projeto `Algorithms`!
 
 <h1 align="center">
-     📱<a href="#" alt="blog"> Blogs Api </a>📱
+     <a href="#" alt="blog"> Algorithms </a>
 </h1>
 <h2 align="center">
 	🚀 Concluído 🚀
 </h2>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/carlatakagi/blogs-api?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/carlatakagi/algorithms?color=%2304D361">
   
-  <a href="https://github.com/carlatakagi/blogs-api/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/carlatakagi/blogs-api">
+  <a href="https://github.com/carlatakagi/algorithms/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/carlatakagi/algorithms">
   </a>
     
-  <a href="https://github.com/carlatakagi/blogs-api/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/carlatakagi/blogs-api?style=social">
+  <a href="https://github.com/carlatakagi/algorithms/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/carlatakagi/algorithms?style=social">
 
   </a>
  
