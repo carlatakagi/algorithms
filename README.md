@@ -43,7 +43,6 @@ Tabela de conteúdos
 
    Projeto realizado para resolver problemas e otimizar algoritmos com python, durante o curso de Desenvolvimento Web da [Trybe](https://www.betrybe.com/).
    <br/>
-   P.S.: os arquivos docker-compose.yml e talker.json foram desenvolvidos pela Trybe.
 
 ---
 
